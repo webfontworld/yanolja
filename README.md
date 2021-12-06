@@ -4,7 +4,7 @@
     <img src="https://webfontworld.github.io/yanolja/YanoljaYache.jpg" alt="YanoljaYache" style="width:300px">
 </a>
 
-
+<pre>
 @font-face {
     font-family: 'YanoljaYache';
     font-weight: 400;
@@ -27,3 +27,4 @@
          url('https://cdn.jsdelivr.net/gh/webfontworld/yanolja/YanoljaYacheBold.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
