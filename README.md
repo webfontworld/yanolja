@@ -18,7 +18,7 @@
 }
 @font-face {
     font-family: 'YanoljaYache';
-    font-weight: 500;
+    font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/yanolja/YanoljaYacheBold.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/yanolja/YanoljaYacheBold.eot?#iefix') format('embedded-opentype'),
