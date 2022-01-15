@@ -1,6 +1,6 @@
 # 야놀자 야체(YanoljaYache)
 
-<a href="https://wess.tistory.com/265" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/yanolja/YanoljaYache.jpg" alt="YanoljaYache" style="width:300px">
 </a>
 
